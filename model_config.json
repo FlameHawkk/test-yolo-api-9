@@ -1,0 +1,5 @@
+{
+  "model_name": "yolov8l-oiv7.pt",
+  "translate_name": "OpenImagesV7.csv",
+  "font_file": "Geoform.ttf"
+}
